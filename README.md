@@ -21,6 +21,7 @@ Instructions:
 
 * Use two fingers to Scroll Page
 * Use Open Hand to Swipe Left & Right to go Forward & Back through your Browser History
+* **IMPORTANT**: You have to check the 'Enable Web Apps' check box in your Leap Motion application settings.  It will not work if you do not do this.  Leap Motion needs permission to have Web Apps connect to it.
 
 Configuration Options:
 ---
