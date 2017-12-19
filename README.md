@@ -1,7 +1,7 @@
 Leap Motion Chrome Extension
 ===
 
-[![ScreenShot](http://peterschmalfeldt.com/downloads/leapmotion_screenshot.png)](https://vimeo.com/66952815)
+### THIS PROJECT IS NO LONGER MAINTAINED
 
 Watch Intro Video: [https://vimeo.com/66952815](https://vimeo.com/66952815)
 
